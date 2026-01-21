@@ -4,7 +4,7 @@
 - 🔭 I’m working at [GIC Myanmar](https://www.gicjp.com/)
   
 
-- 🌱 I’m currently learning React-Native , Node.js and focusing on Next.js 13
+- 🌱 I’m currently learning AWS services
   
 
 <br/>  
