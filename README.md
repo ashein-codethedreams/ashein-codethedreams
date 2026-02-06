@@ -4,7 +4,7 @@
 - 🔭 I’m working at [GIC Myanmar](https://www.gicjp.com/)
   
 
-- 🌱 I’m currently learning AWS services
+- 🌱 I’m currently learning Vibe Coding and [Golang](https://go.dev/)
   
 
 <br/>  
