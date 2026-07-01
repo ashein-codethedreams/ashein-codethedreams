@@ -1,8 +1,4 @@
-### **<div align="center">I'm Ashein, Software Engineer 👨‍💻 </div>**  
-  
-
-- 🔭 I’m working at [GIC Myanmar](https://www.gicjp.com/)
-  
+### **<div align="center">I'm Ashein, Software Engineer 👨‍💻 </div>**    
 
 - 🌱 I’m currently learning Vibe Coding and [Golang](https://go.dev/)
   
